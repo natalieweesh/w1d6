@@ -1,1 +1,5 @@
-w1d6-w1d7 assignments
+Assignments for w1d6-w1d7
+
+- Hangman
+
+- Word chains
